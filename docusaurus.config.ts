@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "papu-nika", // Usually your GitHub org/user name.
-  projectName: "test-docs.github.io", // Usually your repo name.
+  projectName: "papu-nika.github.io", // Usually your repo name.
   deploymentBranch: "main",
 
   onBrokenLinks: "throw",
